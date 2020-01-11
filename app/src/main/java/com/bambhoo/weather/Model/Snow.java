@@ -1,0 +1,16 @@
+package com.bambhoo.weather.Model;
+
+public class Snow {
+    private double __invalid_name__3h;
+
+    public Snow() {
+    }
+
+    public double get__invalid_name__3h() {
+        return __invalid_name__3h;
+    }
+
+    public void set__invalid_name__3h(double __invalid_name__3h) {
+        this.__invalid_name__3h = __invalid_name__3h;
+    }
+}
